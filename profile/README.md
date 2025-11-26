@@ -24,8 +24,8 @@ Core principles:
 - **2024-07-04** – KNSB 400 g thrust measurement test for PSLV-1 succeeded.
 - **2024-11-15** – Solid-propellant sounding rocket PSLV-I launched at the National Comprehensive Performance Test Range (KARI Goheung) as a test flight.
 - **2025-02-13** – 2024 UGRP (Undergraduate Research Program): 3 PSI teams received awards.
-- **2025-03-25** – Participation in Korean Robot Aircraft Competition (failed at 1st screening).
-- **2025-06-26** – Participation in KAIST CanSat Competition (failed at 2nd screening).
+- **2025-03-25** – Participation in Korean Robot Aircraft Competition. 
+- **2025-06-26** – Participation in KAIST CanSat Competition. 
 - **2025-07-20** – Presentation at NURA academic conference based on PSLV-1 technology; received Korea Aerospace Research Institute President’s Award.
 - **2025-08-09** – Solid-propellant sounding rocket PSLV-I successfully launched in the NURA launch competition.
 
