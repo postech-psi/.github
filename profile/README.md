@@ -1,10 +1,10 @@
 # About Us
 
-**PSI is a research-focused aerospace student group at POSTECH in the Department of Mechanical Engineering.**
-
 <p align="center">
   <img src="../assets/logo.jpeg" width="700" alt="PSI LOGO">
 </p>
+
+**PSI is a research-focused aerospace student group at POSTECH in the Department of Mechanical Engineering.**
 
 It was founded to:
 
