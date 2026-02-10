@@ -3,7 +3,7 @@
 **PSI is a research-focused aerospace student group at POSTECH in the Department of Mechanical Engineering.**
 
 <p align="center">
-  <img src="../assets/pslv2.jpg" width="700" alt="PSLV-II 360° Video Mission">
+  <img src="../assets/logo.jpeg" width="700" alt="PSI LOGO">
 </p>
 
 It was founded to:
