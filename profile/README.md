@@ -32,6 +32,8 @@ Core principles:
 - **2025-06-26** – Participation in KAIST CanSat Competition. 
 - **2025-07-20** – Presentation at NURA academic conference based on PSLV-1 technology; received Korea Aerospace Research Institute President’s Award.
 - **2025-08-09** – Solid-propellant sounding rocket PSLV-I successfully launched in the NURA launch competition with advanced avionics.
+- **2025-11-14** – Poster presentations at the Korean Society for Aeronautical & Space Sciences (KSAS) Fall Conference (4 teams).
 - **2025-12-02** – Received POSTECH Undergraduate POSTECHIAN Award.
+- **2025-12-03** – Oral presentations at the Korean Society of Propulsion Engineers (KSPE) Fall Conference (3 teams).
 - **2025-12-05** – Solid-propellant sounding rocket PSLV-II successfully launched at the National Comprehensive Performance Test Range (KARI Goheung); parachute deployment and 360° video mission successfully completed.
 - **2026-02-06** – 2025 UGRP (Undergraduate Research Program): 4 PSI teams received awards.
