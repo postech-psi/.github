@@ -1,6 +1,12 @@
 # About Us
 
 <p align="center">
+  <a href="https://www.instagram.com/postech_psi/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36">
+  </a>
+</p>
+
+<p align="center">
   <img src="../assets/logo.jpeg" width="700" alt="PSI LOGO">
 </p>
 
