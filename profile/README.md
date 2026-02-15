@@ -1,9 +1,14 @@
 # About Us
 
 <p align="center">
-  <a href="https://www.instagram.com/postech_psi/" target="_blank">Instagram</a> •
+  <a href="https://www.instagram.com/postech_psi/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="18" height="18" style="vertical-align:middle;">
+    Instagram
+  </a> •
   <a href="https://postech-psi.github.io/psi-website/" target="_blank">PSI Website</a> •
-  <a href="https://sites.google.com/view/mechanicslab/PSI" target="_blank">CM Lab</a>
+  <a href="https://sites.google.com/view/mechanicslab/PSI" target="_blank">
+    <img src="https://img.shields.io/badge/CM%20Lab-Homepage-F6C100?style=flat-square&labelColor=F2F2F2&logoColor=000000&color=F6C100" alt="CM Lab Homepage" style="vertical-align:middle;">
+  </a>
 </p>
 
 <p align="center">
