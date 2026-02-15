@@ -36,4 +36,4 @@ Core principles:
 - **2025-12-02** – Received POSTECH Undergraduate POSTECHIAN Award.
 - **2025-12-03** – Oral presentations at the Korean Society of Propulsion Engineers (KSPE) Fall Conference (3 teams).
 - **2025-12-05** – Solid-propellant sounding rocket PSLV-II successfully launched at the National Comprehensive Performance Test Range (KARI Goheung); parachute deployment and 360° video mission successfully completed.
-- **2026-02-06** – 2025 UGRP (Undergraduate Research Program): 4 PSI teams received awards.
+- **2026-02-06** – 2025 UGRP (Undergraduate Research Program): 3 PSI teams received awards (11,000,000 KRW).
