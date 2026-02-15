@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/postech_psi/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="18" height="18" style="vertical-align:middle;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="52" height="52" style="vertical-align:middle; width:52px; height:52px; object-fit:contain;">
   </a> •
   <a href="https://postech-psi.github.io/psi-website/" target="_blank">
-    <img src="../assets/logo.jpeg" alt="PSI Website" width="80" style="vertical-align:middle; border-radius:6px;">
+    <img src="../assets/psi-logo-round.png" alt="PSI Website" width="52" height="52" style="vertical-align:middle; width:52px; height:52px; object-fit:contain; background:#ffffff; border-radius:6px; padding:2px;">
   </a> •
   <a href="https://sites.google.com/view/mechanicslab/PSI" target="_blank">
-    <img src="../assets/cmlab-logo.png" alt="CM Lab Homepage" width="80" style="vertical-align:middle; background:#ffffff; border-radius:6px; padding:2px;">
+    <img src="../assets/cmlab-logo.png" alt="CM Lab Homepage" width="52" height="52" style="vertical-align:middle; width:52px; height:52px; object-fit:contain; background:#ffffff; border-radius:6px; padding:2px;">
   </a>
 </p>
 
